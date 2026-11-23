@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+node_modules/
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/vector_store/*
+!backend/vector_store/.gitkeep
+frontend/dist/
+backend/instance/ 
